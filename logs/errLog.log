@@ -1,0 +1,8 @@
+20240207	20:02:39	b54e8d6c-e33b-43a3-a3bd-6b39d878bcc0	TypeError: res.status(...).jso is not a function	POST	/register	undefined
+20240207	20:05:14	f869854f-d17f-4b08-83f0-6b05ee03e5ab	TypeError: res.status(...).jso is not a function	POST	/register	undefined
+20240207	20:09:53	4ad85497-a5c7-421d-b415-fc0f1412a0d9	TypeError: res.status(...).jso is not a function	POST	/register	undefined
+20240207	20:10:46	891d1fab-ce08-4fd9-a0e9-6c39d023e18a	TypeError: res.status(...).jso is not a function	POST	/register	undefined
+20240207	20:11:44	967addfa-2806-4ea9-ab05-32d3681af29e	TypeError: res.status(...).jso is not a function	POST	/register	undefined
+20240207	20:12:59	d03e307a-5fa5-4e7a-a72f-db60dbbc1784	TypeError: res.status(...).jso is not a function	POST	/register	undefined
+20240207	20:57:46	0f4666f4-4eb9-4ef1-a267-f8e89359a450	TypeError: res.status(...).jso is not a function	POST	/register	undefined
+20240208	12:18:54	b384eb63-a50d-4724-bbf2-9347a34a5bd7	TypeError: res.status(...).jso is not a function	POST	/register	undefined

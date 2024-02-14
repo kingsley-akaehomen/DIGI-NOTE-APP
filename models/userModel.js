@@ -15,11 +15,15 @@ const userSchema = new mongoose.Schema({
 
     role: [{
         type: String,
-        required: [true],
+        required: true,
         default: "Employee",
         // enum: ["Employee", "Admin", "Manager"]
     }], 
     
+    active: {
+        type: Boolean,
+        default: true
+    }
 },
     {
         timestamps: true
